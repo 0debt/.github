@@ -45,10 +45,9 @@ The 0debt platform consists of loosely coupled services communicating via HTTP a
 
 For detailed architectural decisions and API specifications, visit:
 
-- [Customer Agreement & Pricing](https://github.com/0debt/0debt-infra/docs/agreements/customer-agreement.md)
-- [Pricing Plans](https://github.com/0debt/0debt-infra/docs/agreements/pricing.md)
-- [Architecture Diagrams](https://github.com/0debt/0debt-infra/docs/diagrams/architecture.md)
-- [Communication Flow](https://github.com/0debt/0debt-infra/docs/diagrams/communication-flow.md)
+- [Customer Agreement & Pricing](https://github.com/0debt/0debt-infra/blob/main/docs/agreements/customer-agreement.md)
+- [Pricing Plans](https://github.com/0debt/0debt-infra/blob/main/docs/agreements/pricing.md)
+- [Architecture Diagrams](https://github.com/0debt/0debt-infra/blob/main/docs/diagrams/architecture.md)
 
 ## License
 
